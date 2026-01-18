@@ -1,3 +1,5 @@
+name: Tell me a Joke
+
 jobs:
   tellmeajoke:
     runs-on: ubuntu-latest
